@@ -1,7 +1,10 @@
 # 💫 Hey, I'm Nitin Rana
-Motivated and detail-oriented MERN stack developer 💻 with strong proficiency in building scalable backend systems ⚙️ and intuitive user-centric interfaces 🎯. 
-I combine solid knowledge of Data Structures and Algorithms 📚 with hands-on experience in real-world projects involving authentication 🔐, payments 💳, cloud deployments ☁️, and AI integrations 🤖. 
-I work best in collaborative environments 🤝, enjoy solving meaningful problems ✅, and am always eager to learn and adapt to new technologies 🚀. 
+Motivated and detail-oriented MERN stack developer 💻 with strong proficiency in building scalable backend systems ⚙️ and intuitive user-centric interfaces 🎯.
+
+I combine solid knowledge of Data Structures and Algorithms 📚 with hands-on experience in real-world projects involving authentication 🔐, payments 💳, cloud deployments ☁️, and AI integrations 🤖.
+
+I work best in collaborative environments 🤝, enjoy solving meaningful problems ✅, and am always eager to learn and adapt to new technologies 🚀.
+
 Fun fact: I am a foodie 🍔 who loves exploring new cuisines and discovering great places to eat 😋.
 
 
