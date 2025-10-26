@@ -5,7 +5,7 @@ I combine solid knowledge of Data Structures and Algorithms 📚 with hands-on e
 
 I work best in collaborative environments 🤝, enjoy solving meaningful problems ✅, and am always eager to learn and adapt to new technologies 🚀.
 
-Fun fact: I am a foodie 🍔 who loves exploring new cuisines and discovering great places to eat 😋.
+Fun fact: When I am not coding 💻, you will often find me dancing Bhangra 🕺 or playing chess ♟️ to keep life exciting..
 
 
 ## 🌐 Socials:
